@@ -70,19 +70,33 @@ Building scalable, business-oriented software solutions that solve real-world pr
 
 </div>
 
-### 🔝 Most Used Programming Languages
+---
+
+## 🔝 Most Used Programming Languages
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&hide=html,css&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=400)](https://github.com/rijath-dev?tab=repositories)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)
 
 </div>
 
 <div align="center">
 
-![Languages Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&hide=html,css&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Languages Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
 
 </div>
+
+---
+
+## 📈 Language Usage Breakdown
+
+| Language | Proficiency |
+|----------|-------------|
+| **PHP** | ████████████████░░ 80% |
+| **JavaScript** | ██████████░░░░░░░░ 50% |
+| **Dart** | ████████░░░░░░░░░░ 40% |
+| **C#** | ██████░░░░░░░░░░░░ 30% |
+| **SQL** | ████████░░░░░░░░░░ 40% |
 
 ---
 
