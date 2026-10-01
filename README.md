@@ -1,16 +1,16 @@
-# Hey there! 👋 I'm Mohammed Rijath
-
 <div align="center">
-  
-  **Full-Stack Developer | Flutter Developer | Software Solutions Entrepreneur**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rijath-08589a183)
-  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rijath.dev@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rijath-dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-  
-  ---
-  
+
+# 👋 Hey there! I'm Mohammed Rijath
+
+**Full-Stack Developer | Flutter Developer | Software Solutions Entrepreneur**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-rijath-08589a183)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rijath.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rijath-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+---
+
 </div>
 
 ## 🎯 About Me
@@ -65,11 +65,11 @@ Building scalable, business-oriented software solutions that solve real-world pr
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijath-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&line_height=27)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
-  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijath-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&line_height=27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+
 </div>
 
 ---
