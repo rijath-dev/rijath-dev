@@ -68,7 +68,19 @@ Building scalable, business-oriented software solutions that solve real-world pr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijath-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&line_height=27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+</div>
+
+### 🔝 Most Used Programming Languages
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&hide=html,css&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=400)](https://github.com/rijath-dev?tab=repositories)
+
+</div>
+
+<div align="center">
+
+![Languages Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=rijath-dev&hide=html,css&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
