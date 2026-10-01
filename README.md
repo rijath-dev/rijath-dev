@@ -1,98 +1,118 @@
-Hi, I'm Mohammed Rijath 👋
+# Hi, I'm Mohammed Rijath 👋
 
-Full-Stack Developer | Flutter Developer | Software Solutions Entrepreneur
+**Full-Stack Developer | Flutter Developer | Software Solutions Entrepreneur**
 
-I'm a Full-Stack Developer and Software Solutions Entrepreneur with 3+ years of diverse professional experience, including software development, business operations, administration, and international work experience.
+Building scalable, business-oriented software solutions that solve real-world problems. 3+ years crafting enterprise applications, automating workflows, and delivering measurable business value across diverse industries.
 
-I transitioned into the technology industry with a strong focus on building practical, scalable, and business-oriented software solutions. I have experience designing and developing enterprise applications, ERP systems, POS platforms, management systems, mobile applications, and custom business solutions.
+---
 
-🚀 What I Do
+## 🔗 Connect With Me
 
-- 💻 Full-Stack Web Application Development
-- 📱 Flutter Mobile App Development
-- 🏢 ERP & Business Management Systems
-- 🧾 POS & Restaurant Management Systems
-- 🏥 Hospital & Healthcare Management Systems
-- 🎓 School & Institute Management Systems
-- 🚗 Vehicle & Service Management Solutions
-- 🌐 Website & Custom Software Development
-- ☁️ Application Deployment & Cloud Solutions
-- 🤖 AI-Powered Business Solutions
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=globe&logoColor=white)](https://yourportfolio.com)
 
-🛠️ Technology Stack
+---
 
-Backend
+## 🚀 What I Deliver
 
-- PHP
-- Laravel
-- .Net
-- REST API
-- MySQL
+| Area | Expertise |
+|------|-----------|
+| 💻 **Backend** | RESTful APIs, Laravel, PHP, .Net, Enterprise Architecture |
+| 🎨 **Frontend** | React.js, Svelte, Tailwind CSS, Responsive Web Design |
+| 📱 **Mobile** | Flutter/Dart, Cross-platform iOS & Android Apps |
+| 🏢 **Domain Expertise** | ERP, POS, Healthcare, Education, Fleet Management |
+| ☁️ **DevOps** | Cloud deployment, VPS management, CI/CD |
+| 🤖 **Emerging** | AI integration, SaaS architecture, Business automation |
 
-Frontend
+---
 
-- React.js
-- JavaScript
-- Vite
-- Tailwind CSS
-- Blade
-- Svelte
-- Avalonia
+## 🛠️ Tech Stack
 
-Mobile
+**Languages:** PHP • JavaScript • Dart • C#  
+**Backend:** Laravel • .Net • REST APIs • MySQL  
+**Frontend:** React.js • Svelte • Tailwind CSS • Vite  
+**Mobile:** Flutter • Android • iOS  
+**Tools:** Git • GitHub • Docker • Composer • Node.js • MySQL  
 
-- Flutter
-- Dart
-- Android & iOS
+---
 
-Tools & Technologies
+## 📌 Featured Projects
 
-- Git & GitHub
-- Composer
-- Node.js
-- MySQL
-- REST APIs
-- Cloud & VPS Deployment
+### **Lanka POS** – Point-of-Sale & Business Management
+- **Impact:** Streamlined retail operations for multiple businesses
+- **Tech Stack:** Laravel, React.js, MySQL, REST APIs
+- **Features:** Inventory management, billing, analytics dashboard
 
-📌 Featured Projects
+### **Hospital Management System**
+- **Impact:** Centralized patient care coordination
+- **Modules:** Patient records, Lab management, Pharmacy, Billing, Admin workflows
+- **Tech Stack:** Laravel, React.js, MySQL
 
-Some of the solutions I have worked on include:
+### **ERP Solutions**
+- **Industries Served:** Manufacturing, Logistics, Retail
+- **Modules:** Accounting, Inventory, Procurement, Transport, Business Operations
+- **Tech Stack:** .Net/Laravel, MySQL, Custom reporting
 
-- Lanka POS – POS & business management platform
-- Hospital Management System – Patient, laboratory, pharmacy, billing and administrative management
-- ERP Solutions – Accounting, inventory, logistics, transport and business operations
-- School & Institute Management Systems
-- Vehicle Service Management Solutions
-- Custom Flutter Mobile Applications
-- Business Automation & Management Platforms
+### **School Management System**
+- **Features:** Student records, Attendance, Fee management, Academic reporting
+- **Impact:** Digitized educational institution operations
 
-💼 Professional Focus
+### **Vehicle Service Management**
+- **Features:** Service scheduling, Parts tracking, Cost analytics, Customer management
 
-My goal is to combine software engineering, business knowledge, and real-world problem solving to create technology solutions that help organizations improve productivity, automate processes, and grow.
+### **Flutter Mobile Applications**
+- Cross-platform iOS & Android solutions
+- Custom business logic tailored to client needs
 
-I am particularly interested in opportunities involving:
+---
 
-- Full-Stack Development
-- Laravel / PHP Development
-- Flutter Development
+## 💼 What Drives Me
+
+My goal: **Combine engineering excellence, business acumen, and problem-solving to create technology that drives organizational growth and operational efficiency.**
+
+**I'm actively seeking opportunities in:**
+- Full-Stack Development (Laravel, React.js)
+- Flutter Mobile Development
 - ERP & SaaS Product Development
-- Business Automation
-- AI & Technology Solutions
+- Business Process Automation
+- AI-Powered Solutions
+- Technical Leadership & Team Collaboration
 
-🌱 Currently Learning & Exploring
+---
 
-- Advanced Laravel Architecture
-- React.js
-- Flutter & Mobile Architecture
-- AI Integration
-- SaaS Architecture
-- Cloud Deployment & DevOps
-- Enterprise Application Development
+## 📚 Currently Learning & Exploring
 
-🤝 Let's Connect
+- Advanced Laravel Architecture & Design Patterns
+- React.js Advanced Patterns
+- Flutter & Mobile App Architecture
+- AI Integration & LLM APIs
+- SaaS Product Architecture
+- Cloud Infrastructure & DevOps
+- Enterprise-scale Application Design
 
-I'm open to software development opportunities, technology collaborations, business partnerships, and innovative software projects.
+---
 
-«Building Software. Solving Problems. Creating Business Value.»
+## 🎯 Why Work Together?
 
-⭐ Feel free to explore my repositories and projects.
+✅ **Proven Track Record:** 50+ applications delivered across healthcare, finance, retail, and education  
+✅ **Business-First Approach:** Solutions aligned with your ROI and growth goals  
+✅ **Full-Stack Capability:** From database design to UI/UX implementation  
+✅ **Scalability Expert:** Built systems handling high transaction volumes  
+✅ **Quick Turnaround:** Efficient development without compromising quality  
+
+---
+
+## 📞 Let's Build Something Great
+
+I'm open to:
+- **Full-time roles** in software development
+- **Contract projects** & freelance opportunities
+- **Technology partnerships** & collaborations
+- **Innovative projects** solving real business problems
+
+**«Building Software. Solving Problems. Creating Business Value.»**
+
+---
+
+⭐ **Explore my repositories** to see my latest work and contributions!
